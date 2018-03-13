@@ -5,7 +5,9 @@ export default class News extends Component {
     return (
       <div>
         <p>News Page</p>
-        <div></div>
+        <div>
+          <p>Hello News</p>
+        </div>
       </div>
     )
   }
